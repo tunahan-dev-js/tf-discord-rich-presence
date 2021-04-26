@@ -1,0 +1,16 @@
+{
+  "name": "tf-discord-rich-presence",
+  "version": "1.0.0",
+  "description": "Topluluğumuza Yakışır Bir Discord Durumuna Sahip Olabilmeniz İçin Sizlere Hazırladığım Eğitim Paketi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Stronger Developer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-rpc": "^3.2.0"
+  }
+}
