@@ -10,7 +10,8 @@
   "author": "Stronger Developer",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.1",
-    "discord-rpc": "^3.2.0"
+    "git": "^0.1.5",
+    "discord-rpc": "^3.2.0",
+    "chalk": "^4.1.1"
   }
 }
